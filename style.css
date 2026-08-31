@@ -89,10 +89,7 @@ nav a:hover{
 
     height: 90vh;
 
-    background-image: linear-gradient(
-        rgba(0,0,0,.55),
-        rgba(0,0,0,.55)
-    );
+    background:rgb(156, 126, 43);
 
     background-size: cover;
     background-position: center;

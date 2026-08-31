@@ -12,7 +12,6 @@ document.querySelectorAll('nav a').forEach(link => {
         
         destino.scrollIntoView({
             behavior: "smooth"
-            block: "start"
         });
 
     });
