@@ -24,3 +24,5 @@ Como executar
 
 1. Baixe os arquivos.
 2. Abra o arquivo index.html no navegador.
+Ou <a href="https://rafaellaurentino-dev.github.io/PetShop-Amigo-do-Cao/" target="_blank">clique aqui</a> para acessar diretamente do Github.
+ 
